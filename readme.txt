@@ -6,4 +6,4 @@ Course Name : open source software
 
 This week : git commands
 
-Next week : More git and dockers
+Next week : Docker commands
